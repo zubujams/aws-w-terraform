@@ -13,3 +13,11 @@ Launch an EC2 instance - Connect to the instance using Terraform -  Install Jenk
 
 After downloading and setting up terraform
 ![Screenshot 2024-01-27 at 11 25 52 AM](https://github.com/zubujams/aws-w-terraform/assets/52971863/8ae4777d-1b08-4648-bf1f-8acc7eeb4285)
+
+![Screenshot 2024-01-29 at 2 47 32 PM](https://github.com/zubujams/aws-w-terraform/assets/52971863/33929c42-1c0b-4f3d-b793-e2b6f231da55)
+
+![Screenshot 2024-01-29 at 2 51 23 PM](https://github.com/zubujams/aws-w-terraform/assets/52971863/35e32657-0577-401d-b6cd-a69af2ddcf46)
+
+![Screenshot 2024-01-29 at 2 52 21 PM](https://github.com/zubujams/aws-w-terraform/assets/52971863/46440735-1d8c-410a-8cde-d89ece280a59)
+
+![Screenshot 2024-01-29 at 2 55 47 PM](https://github.com/zubujams/aws-w-terraform/assets/52971863/3eecb9a8-71c7-45d8-9d89-0d774c4c4a51)
